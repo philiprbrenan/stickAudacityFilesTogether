@@ -8,7 +8,7 @@ or more .wav files.
 ## Installation
 
 Download the single standalone Perl script
-**https://github.com/philiprbrenan/stickAudacityFilesTogether**
+[https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl](https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl)
 to any convenient folder.
 
 ### Perl
@@ -30,9 +30,9 @@ You might need to install Sox:
 ## Configuration
 
 Using an editor change the lines in the **User configuration** section in
-**stickAudacityFilesTogether.pl** to select the files you want to process, the
-number of files to be joined at a time and whether a restart of a prior run
-should be performed.
+[https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl](https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl)
+to select the files you want to process, the number of files to be joined at a
+time and whether a restart of a prior run should be performed.
 
 ## Execution
 
