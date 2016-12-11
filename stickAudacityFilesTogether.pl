@@ -35,15 +35,16 @@ L<https://sourceforge.net/projects/sox/files/sox/>
 
 =head2 Configuration
 
-Using an editor change the lines in the B<User configuration> section below to
-select the files you want to process, the number of files to be joined at a
-time and whether a restart of a prior run should be performed.
+Using an editor change the lines in the B<User configuration> section in
+B<stickAudacityFilesTogether.pl> to select the files you want to process, the
+number of files to be joined at a time and whether a restart of a prior run
+should be performed.
 
 =head2 Execution
 
 From the command line, execute:
 
-perl stickAudacityFilesTogether.pl
+  perl stickAudacityFilesTogether.pl
 
 =cut
 
