@@ -27,9 +27,10 @@ You might need to install Sox:
 
 ## Configuration
 
-Using an editor change the lines in the **User configuration** section below to
-select the files you want to process, the number of files to be joined at a
-time and whether a restart of a prior run should be performed.
+Using an editor change the lines in the **User configuration** section in
+**stickAudacityFilesTogether.pl** to select the files you want to process, the
+number of files to be joined at a time and whether a restart of a prior run
+should be performed.
 
 ## Execution
 
