@@ -7,7 +7,9 @@ or more .wav files.
 
 ## Installation
 
-Download this single standalone Perl script to any convenient folder.
+Download the single standalone Perl script
+**https://github.com/philiprbrenan/stickAudacityFilesTogether**
+to any convenient folder.
 
 ### Perl
 
@@ -36,4 +38,4 @@ should be performed.
 
 From the command line, execute:
 
-perl stickAudacityFilesTogether.pl
+    perl stickAudacityFilesTogether.pl
