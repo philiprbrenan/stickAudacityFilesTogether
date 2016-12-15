@@ -29,8 +29,7 @@ You might need to install Sox:
 
 ## Windows Installation Notes
 
-If you are working on Windows you will might need to install the following
-items:
+If you are working on Windows you might need to install the following items:
 
 [sound exchange](https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download)
 
