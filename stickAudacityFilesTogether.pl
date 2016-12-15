@@ -15,7 +15,9 @@ or more .wav files.
 
 =head2 Installation
 
-Download this single standalone Perl script to any convenient folder.
+Download the single standalone Perl script
+L<stickAudacityFilesTogether.pl|https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl>
+to any convenient folder.
 
 =head3 Perl
 
@@ -33,12 +35,20 @@ You might need to install Sox:
 
 L<https://sourceforge.net/projects/sox/files/sox/>
 
+=head3 Windows Installation Notes
+
+You will need to install the following items:
+
+L<https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download>
+L<http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi>
+L<http://download.geany.org/geany-1.29_setup.exe>
+
 =head2 Configuration
 
 Using an editor change the lines in the B<User configuration> section in
-B<stickAudacityFilesTogether.pl> to select the files you want to process, the
-number of files to be joined at a time and whether a restart of a prior run
-should be performed.
+L<stickAudacityFilesTogether.pl|https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl>
+to select the files you want to process, the number of files to be joined at a
+time and whether a restart of a prior run should be performed.
 
 =head2 Execution
 
