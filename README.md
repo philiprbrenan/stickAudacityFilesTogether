@@ -5,7 +5,7 @@
 Reads a selection of .au files (from Audacity) and concatenates them into one
 or more .wav files.
 
-## Installation
+## Linux Installation
 
 Download the single standalone Perl script
 [stickAudacityFilesTogether.pl](https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl)
@@ -27,15 +27,21 @@ You might need to install Sox:
 
 [https://sourceforge.net/projects/sox/files/sox/](https://sourceforge.net/projects/sox/files/sox/)
 
-### Windows Installation Notes
+## Windows Installation Notes
 
-You will need to install the following items:
+If you are working on Windows you will might need to install the following
+items:
 
-[https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download](https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download)
+[sound exchange](https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download)
 
-[http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi](http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi)
+[perl](http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi)
 
-[http://download.geany.org/geany-1.29\_setup.exe](http://download.geany.org/geany-1.29_setup.exe)
+[text editor](http://download.geany.org/geany-1.29_setup.exe)
+
+Then create a convenient folder with no blanks anywhere in its name and save
+the following file into it:
+
+[stickAudacityFilesTogether.pl](https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl)
 
 ## Configuration
 

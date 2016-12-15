@@ -13,7 +13,7 @@
 Reads a selection of .au files (from Audacity) and concatenates them into one
 or more .wav files.
 
-=head2 Installation
+=head2 Linux Installation
 
 Download the single standalone Perl script
 L<stickAudacityFilesTogether.pl|https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl>
@@ -35,15 +35,21 @@ You might need to install Sox:
 
 L<https://sourceforge.net/projects/sox/files/sox/>
 
-=head3 Windows Installation Notes
+=head2 Windows Installation Notes
 
-You will need to install the following items:
+If you are working on Windows you will might need to install the following
+items:
 
-L<https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download>
+L<sound exchange|https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download>
 
-L<http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi>
+L<perl|http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi>
 
-L<http://download.geany.org/geany-1.29_setup.exe>
+L<text editor|http://download.geany.org/geany-1.29_setup.exe>
+
+Then create a convenient folder with no blanks anywhere in its name and save
+the following file into it:
+
+L<stickAudacityFilesTogether.pl|https://github.com/philiprbrenan/stickAudacityFilesTogether/blob/master/stickAudacityFilesTogether.pl>
 
 =head2 Configuration
 
