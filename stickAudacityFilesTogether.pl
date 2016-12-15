@@ -40,7 +40,9 @@ L<https://sourceforge.net/projects/sox/files/sox/>
 You will need to install the following items:
 
 L<https://sourceforge.net/projects/sox/files/sox/14.4.2/sox-14.4.2-win32.exe/download>
+
 L<http://strawberryperl.com/download/5.24.0.1/strawberry-perl-5.24.0.1-64bit.msi>
+
 L<http://download.geany.org/geany-1.29_setup.exe>
 
 =head2 Configuration
